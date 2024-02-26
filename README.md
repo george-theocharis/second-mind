@@ -19,3 +19,7 @@ interesting :eyes:.
    In this video, Kevlin Henney describes how proper structure and naming can elevate tests.
    Showcasing different examples like Leap Year, Stacks and Queues, trying to lean in testing the specifications of
    a program.
+2) [Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg&ab_channel=DevTernityConference)
+
+   In this video, Sandro Mancuso shows how you still need to make design decisions while using TDD and it's a great talk 
+in general.
