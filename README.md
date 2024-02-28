@@ -13,6 +13,15 @@ interesting :eyes:.
 
 # 🧪 Testing
 
+### Articles
+1) [Increase Test Fidelity By Avoiding Mocks](https://testing.googleblog.com/2024/02/increase-test-fidelity-by-avoiding-mocks.html)
+
+   In this article by Google, it is advised to try to use real implementations or fakes as much as possible and to try to
+avoid usage of mocks or mocking libraries. Something that I wholeheartedly agree. Mocks make tests coupled to implementation
+details, are easily misused as both mocks and stubs and also add extra time in tests that little by little increases over
+the course of a project.
+
+
 ### Youtube
 1) [Structure and Interpretation of Test Cases](https://www.youtube.com/watch?v=tWn8RA_DEic&ab_channel=NDCConferences)
 
