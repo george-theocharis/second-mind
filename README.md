@@ -40,3 +40,11 @@ unit under test.
    
    In this video, Ian Cooper presents the part 2 of the famous talk TDD, Where Did It All Go Wrong, reflecting on things
 based on his new experiences.
+
+# 🏆 Leadership
+
+### Articles
+1) [How to Be a Better Software Engineering Leader](https://blog.practicalengineering.management/how-to-be-a-better-software-engineering-leader-286a82ec278e)
+
+   In this article by Mirek Stanek the role of the engineering management is discussed and what differentiates a good one
+from a bad one. The most interesting bit is the Center-Out Leadership vs Top-Down!
