@@ -32,3 +32,11 @@ the course of a project.
 
    In this video, Sandro Mancuso shows how you still need to make design decisions while using TDD and it's a great talk 
 in general.
+3) [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM&t=6s&ab_channel=DevTernityConference)
+
+   In this video, Ian Cooper discuss about the pitfalls that devs fell on while doing TDD and especially missing what is the
+unit under test.
+4) [TDD Revisited](https://www.youtube.com/watch?v=IN9lftH0cJc&t=3575s&ab_channel=NDCConferences)
+   
+   In this video, Ian Cooper presents the part 2 of the famous talk TDD, Where Did It All Go Wrong, reflecting on things
+based on his new experiences.
