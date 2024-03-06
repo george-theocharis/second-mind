@@ -41,6 +41,11 @@ unit under test.
    In this video, Ian Cooper presents the part 2 of the famous talk TDD, Where Did It All Go Wrong, reflecting on things
 based on his new experiences.
 
+5) [Outside In TDD Account](https://www.youtube.com/watch?v=XHnuMjah6ps&list=PLXblePLf9LtPBeijGmVIv8dBv4uIi3JEa&ab_channel=Codurance)
+
+   In this awesome screencast by Sandro Mancuso, one can see an expert TDDer handling a kata using the outside in approach.
+This is a great combo to watch together with video number 2 of this list.
+
 # 🏆 Leadership
 
 ### Articles
