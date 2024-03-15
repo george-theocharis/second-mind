@@ -10,6 +10,10 @@ interesting :eyes:.
 
    In this article by Marcin Piekielny, you can find one of the few sources that describe domain driven design in
    Android.
+2) [How the Repository pattern is misunderstood in Android](https://itnext.io/android-data-repository-a-simple-pattern-that-we-often-misunderstand-6a6fb13b5a81)
+   
+   In this article by Marcin Piekielny, we can see how the repository is sometimes misused in Android and we could actually 
+do with this pattern.
 
 # 🧪 Testing
 
