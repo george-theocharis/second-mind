@@ -15,6 +15,22 @@ interesting :eyes:.
    In this article by Marcin Piekielny, we can see how the repository is sometimes misused in Android and we could actually 
 do with this pattern.
 
+# ⭐ Kotlin
+
+### Articles
+1) [Functional Domain Model](https://dev.to/jakub_zalas/functional-domain-model-o3j)
+   
+   In this series of articles, Jakub Zalas describes how to create a functional domain model leveraging event source and ddd
+in Kotlin!
+
+# 🏆 Leadership
+
+### Articles
+1) [How to Be a Better Software Engineering Leader](https://blog.practicalengineering.management/how-to-be-a-better-software-engineering-leader-286a82ec278e)
+
+   In this article by Mirek Stanek the role of the engineering management is discussed and what differentiates a good one
+   from a bad one. The most interesting bit is the Center-Out Leadership vs Top-Down!
+
 # 🧪 Testing
 
 ### Articles
@@ -49,11 +65,3 @@ based on his new experiences.
 
    In this awesome screencast by Sandro Mancuso, one can see an expert TDDer handling a kata using the outside in approach.
 This is a great combo to watch together with video number 2 of this list.
-
-# 🏆 Leadership
-
-### Articles
-1) [How to Be a Better Software Engineering Leader](https://blog.practicalengineering.management/how-to-be-a-better-software-engineering-leader-286a82ec278e)
-
-   In this article by Mirek Stanek the role of the engineering management is discussed and what differentiates a good one
-from a bad one. The most interesting bit is the Center-Out Leadership vs Top-Down!
